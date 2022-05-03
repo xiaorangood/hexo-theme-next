@@ -100,6 +100,8 @@ menu:
   archives: /archives/ || fa fa-archive
   tags: /tags/ || fa fa-tags
   categories: /categories/ || fa fa-th
+  links: /links/ || fas fa-link
+  # links: /links/ || link
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
@@ -903,3 +905,22 @@ vendors:
 css: css
 js: js
 images: images
+
+mylinks:
+- nickname: 吴川斌的博客  #友链名称
+  site: https://www.mr-wu.cn/  #友链地址
+  info: 一个专注于{智能硬件}{嵌入式系统}{物联网}{电子产品设计美学}的独立博客  #友链说明
+  avatar: https://cdnimg.mr-wu.cn/wp-content/uploads/2020/08/mr-wu-logo-main.svg  #友链头像
+- nickname: AnFrank  #友链名称
+  site: https://enfangzhong.github.io/  #友链地址
+  info: 既可以早九晚五又可以浪迹天涯。  #友链说明
+  avatar: https://enfangzhong.github.io/images/avatar.jpg  #友链头像
+- nickname: Clay 的技术博客  #友链名称
+  site: https://www.techgrow.cn/  #友链地址
+  info: 用进废退|艺不压身  #友链说明
+  avatar: https://www.techgrow.cn/img/head.jpg  #友链头像
+- nickname: Rondo的笔记本  #友链名称
+  site: https://www.rondochen.com/  #友链地址
+  info: 记录生活，记录成长  #友链说明
+  avatar: https://www.rondochen.com/images/custom-logo.jpg  #友链头像
+
